@@ -105,6 +105,7 @@ p {
 	font-size: 3rem;
 	text-transform: uppercase;
 	color: white;
+	margin-left: 40px;
 }
 .brand h1 span {
 	color: #00e8f8;
@@ -406,8 +407,10 @@ p {
 	color: white;
 }
 #certificates .certificate-info h1 {
+	margin-bottom: 15px;
 	font-size: 4rem;
 	font-weight: 500;
+	font-size: 30px;
 }
 #certificates .certificate-info h2 {
 	font-size: 1.8rem;
