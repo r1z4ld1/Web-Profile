@@ -83,7 +83,7 @@ p {
 
 .cta {
 	display: inline-block;
-	padding: 10px 30px;
+	padding: 10px 20px;
 	color: white;
 	background-color: transparent;
 	border: 2px solid #00e8f8;
@@ -94,18 +94,12 @@ p {
 	transition: 0.3s ease;
 	transition-property: background-color, color;
 }
-/*
-.cta:hover {
-	color: white;
-	background-color:  #00e8f8;
-	
-}
-*/
+
 .brand h1 {
-	font-size: 3rem;
+	font-size: 2rem;
 	text-transform: uppercase;
 	color: white;
-	margin-left: 40px;
+	margin-left: 0px;
 }
 .brand h1 span {
 	color: #00e8f8;
@@ -470,7 +464,6 @@ p {
 	margin-bottom: 20px;
 }
 #about .col-right .cta {
-	/* color: black; */
 	color: #fff;
 	margin-bottom: 50px;
 	padding: 10px 20px;
